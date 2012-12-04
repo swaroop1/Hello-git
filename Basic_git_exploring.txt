@@ -1,0 +1,13 @@
+
+=====  things to learn in git today ==========
+
+1)git merge --squash bug123
+
+2)git uncommit
+
+3)git stash
+
+4)check this  -- "Changing commit history to clean up change sets"
+
+5)git remotes
+
